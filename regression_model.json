@@ -1,0 +1,8 @@
+{
+    "intercept": 4554.019896891587,
+    "coefficients": {
+        "Rating": -4.661275474143927,
+        "Events_Played": -3970.769560517422,
+        "Rating_x_Events": 4.203271495695289
+    }
+}
